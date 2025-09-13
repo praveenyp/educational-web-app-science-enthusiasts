@@ -29,7 +29,7 @@ The system combines three modules with an integrated AI tutor that assists stude
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
 - **AI Integration:** OpenAI API / Hugging Face models  
